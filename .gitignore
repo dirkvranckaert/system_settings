@@ -6,3 +6,10 @@
 pubspec.lock
 
 build/
+android/app/.cxx
+example/android/app/.cxx
+
+# iOS related
+Podfile.lock
+ios/DerivedData/
+example/ios/DerivedData/
