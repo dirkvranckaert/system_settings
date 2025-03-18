@@ -1,0 +1,2 @@
+/Users/dirkvranckaert/Documents/app3/flutter_lib/system_settings/example/android/app/.cxx/Debug/6a69ba3q/x86/CMakeFiles/edit_cache.dir
+/Users/dirkvranckaert/Documents/app3/flutter_lib/system_settings/example/android/app/.cxx/Debug/6a69ba3q/x86/CMakeFiles/rebuild_cache.dir
